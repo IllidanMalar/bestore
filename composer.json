@@ -1,7 +1,2 @@
 {
-    "minimum-stability": "dev",
-    "require": {
-        "sandeepshetty/shopify_api": "dev-master",
-        "shopifyextras/shopify-php-api-wrapper": "^1.1"
-    }
 }
